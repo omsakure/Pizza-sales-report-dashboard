@@ -10,6 +10,7 @@ Developed an interactive Power BI report to analyze pizza sales data, covering t
 ## 🛠️ Tools Used
 - **Power BI** – Data visualization
 - **Excel/CSV** – Data source
+- **SQL** – Data transformation & calculations
 
 ## 🔥 Future Enhancements
 - Real-time data integration
